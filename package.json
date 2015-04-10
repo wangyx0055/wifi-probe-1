@@ -1,0 +1,7 @@
+{
+  "name": "wifi-probe",
+  "version": "0.0.1",
+  "dependencies": {
+      "pcap": "https://github.com/mranney/node_pcap"
+  }
+}
